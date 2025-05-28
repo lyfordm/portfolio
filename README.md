@@ -87,6 +87,9 @@ npm run build
 
 There are no Environment Variable
 
+### Cloudinary storage of assets
+To make the site fast, a third-party asset storage package was used. You can use any platform and just paste the URLs into the assets array.
+
 ## 🎨 Customization
 
 1. **Content**: Update project data in `src/data/projectsData.js`
